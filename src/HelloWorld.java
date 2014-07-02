@@ -9,6 +9,7 @@ public class HelloWorld {
 		x=0;y=8;
 		int a = x+y;
 		System.out.println("a= "+ a);
+		return;
 	}
 
 }
